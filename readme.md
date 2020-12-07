@@ -6,6 +6,8 @@
 
 Welcome!!! If you are reading this you are about to embark on a Software Engineering Immersive Remote course. I've created this markdown to highlight some best practices to best prepare before your first day of class and as a reference throughout the cohort for useful resources.
 
+**IF YOUR LOOKING FOR THE CHEATSHEETS - [CLICK HERE](/cheatsheet/readme.md)
+
 ### Start Here
 
 This guide below will tell you what you need to setup before the first day of class.
