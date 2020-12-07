@@ -59,7 +59,15 @@ _You Can Also Watch the Video I posted in the main readme.md in this repo on SSH
 
 ## Step 4 - Downloading NodeJS
 
-- Headover to NodeJS.org and download and install it. Learn about what is NodeJS and how to use it with the video in the main readme.md.
+- Headover to NodeJS.org and download and install it. Learn about what is NodeJS and how to use it with the video in the main readme.md. Make sure you install the latest version, even if you didn't just follow the directions below to easily update.
+
+#### UPDATING NODE
+
+1. install n
+   `sudo npm install -g n`
+
+2. to update node
+   `sudo n latest`
 
 ## Step 5 - Learn the tools
 
