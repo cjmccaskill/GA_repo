@@ -53,6 +53,8 @@
 
 - [Headless CMSs](https://generalassembly.zoom.us/rec/share/u-h25U66niMOHRUEVNSsYR1te_CJWyGVHnsSCIGyWi3M_VqxD6Y8A5Jb71DIfaEd.2sh7T2ScqNpobTPc) Passcode: kY4gKsy
 
+- [Python](https://generalassembly.zoom.us/rec/share/5LQ0isfe2C4T4chJw2-zu0zGoqjUpI8SRBLWSGBwy2eA5za3gIX9JyW8OzfQVy5S.riET9S79ZO0nst-I) Passcode: #DC36L$Z
+
 - [Bonus HTML/CSS Playlist](https://www.youtube.com/playlist?list=PLV0X85yx42J1Btf00aBjbth_vgxM21Vfv)
 
 - [Bonus Javascript Playlist](https://www.youtube.com/playlist?list=PLV0X85yx42J2IZ0NPW7vbY3OHITUFCFTD)
