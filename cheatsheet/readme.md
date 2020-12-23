@@ -55,6 +55,8 @@
 
 - [Python](https://generalassembly.zoom.us/rec/share/5LQ0isfe2C4T4chJw2-zu0zGoqjUpI8SRBLWSGBwy2eA5za3gIX9JyW8OzfQVy5S.riET9S79ZO0nst-I) Passcode: #DC36L$Z
 
+- [BEM CSS Naming Conventions](https://generalassembly.zoom.us/rec/share/E5rcHmqX7SsWWKPQu8mad3W_CIhyix8xlBCQtvZzOXoKcIyX6ErlpUm0tV0Txbc.n0p3WR3y4tnyeb8X) Passcode: 46K*?J9*
+
 - [Bonus HTML/CSS Playlist](https://www.youtube.com/playlist?list=PLV0X85yx42J1Btf00aBjbth_vgxM21Vfv)
 
 - [Bonus Javascript Playlist](https://www.youtube.com/playlist?list=PLV0X85yx42J2IZ0NPW7vbY3OHITUFCFTD)
