@@ -33,6 +33,10 @@
 
 - [Bootstrap](https://generalassembly.zoom.us/rec/share/X0O7p1sFyZzRs-Y9OanTgehiwYn1o8f-9hRNASXeosAoGcUv1vvSMq4Q2TCux75Y.HD5wjyK61FOQaRUU)
 
+#### Ira Bonus Lessons
+
+- [CS - Algorithms and Data Structures](https://generalassembly.zoom.us/rec/play/D3hsHHtv2--SfvDfmiQ2wUmu1a5e2eK0rU30X5Vq0FNoV57Qkm5pss6fQmkObpJf6ln0CXpQIJ_zvADQ.ofsX608ZqCBz7ktK?_x_zm_rhtaid=27&_x_zm_rtaid=-eIeYdrJSxG-ZNwSQ6Wlpg.1608775917040.8d4a0a2a43e3c7ecd34ec0944159c308&autoplay=true&continueMode=true&startTime=1608766207000)
+
 #### Alex Merced Bonus Lessons
 
 - [WebComponents](https://generalassembly.zoom.us/rec/share/Oi7uyET69MaLn04ExCVMQI8vFn6Uv57Mmij_yLdhpMZH7GCd9eSq8L51CGJ4Aihn.sg-UimYRO0AFCq6R) - Passcode: jM5UmVz=
@@ -49,7 +53,7 @@
 
 - [StencilJS](https://generalassembly.zoom.us/rec/share/7mmvql7UaNsU17ngohilhT7VMRoMcjid6S_gB5hJ2Xg-Ql-0wndZSRt1mYHQ.csNgVmeU3ov79G18) - Passcode: aJiI1X^b
 
-- [GraphQL](https://generalassembly.zoom.us/rec/share/Dce4vUf5_3GYq-TysQapQbv0n_Dwy0VuOdhzO04_Hw3F7BiZBV3WcgpKlpm8uAtC.okgyNArVhbTWKapw) Passcode: n2Z*xq^a
+- [GraphQL](https://generalassembly.zoom.us/rec/share/Dce4vUf5_3GYq-TysQapQbv0n_Dwy0VuOdhzO04_Hw3F7BiZBV3WcgpKlpm8uAtC.okgyNArVhbTWKapw) Passcode: n2Z\*xq^a
 
 - [Headless CMSs](https://generalassembly.zoom.us/rec/share/u-h25U66niMOHRUEVNSsYR1te_CJWyGVHnsSCIGyWi3M_VqxD6Y8A5Jb71DIfaEd.2sh7T2ScqNpobTPc) Passcode: kY4gKsy
 
@@ -81,6 +85,6 @@
 
 - [Fireside Chat with Cierra Nease](https://generalassembly.zoom.us/rec/play/h82Jg1BiFcRwm7SWUQhQgNjmZ4RrDBkEIfnwdQuA1TxhAGBJg-u-INKmMny-uiYU7iYxeVNSz764Or1R.7-A4cbMf5Rf9PTBN?autoplay=true&startTime=1605895775000)
 
-- [Fireside Chat with Alyssa Jackson](https://generalassembly.zoom.us/rec/play/dV9CWb_08z7Oi_LtZsah-LtpHGtDHxwUxFgXNo7aBgqiZoxwEYJRUIzOpJZ6e6tukpJBefjFe-oHJLI._9fBQDIHmWzgRQVo?autoplay=true&startTime=1603995887000) 
+- [Fireside Chat with Alyssa Jackson](https://generalassembly.zoom.us/rec/play/dV9CWb_08z7Oi_LtZsah-LtpHGtDHxwUxFgXNo7aBgqiZoxwEYJRUIzOpJZ6e6tukpJBefjFe-oHJLI._9fBQDIHmWzgRQVo?autoplay=true&startTime=1603995887000)
 
 - [Fireside Chat with Janet Mendez](https://generalassembly.zoom.us/rec/play/DI2PEyp09c7rgKqN_9XJWGc0nt-iS9ekuZTpDDJhIJDnpG6T2qdI1HKQTauZjpEOuZzcHsdkBM7Bvvnn.c9vdj6pGwkwtc6vC?autoplay=true&startTime=1602091736000)
