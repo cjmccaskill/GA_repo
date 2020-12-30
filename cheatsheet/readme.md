@@ -37,6 +37,8 @@
 
 - [CS - Algorithms and Data Structures](https://generalassembly.zoom.us/rec/play/D3hsHHtv2--SfvDfmiQ2wUmu1a5e2eK0rU30X5Vq0FNoV57Qkm5pss6fQmkObpJf6ln0CXpQIJ_zvADQ.ofsX608ZqCBz7ktK?_x_zm_rhtaid=27&_x_zm_rtaid=-eIeYdrJSxG-ZNwSQ6Wlpg.1608775917040.8d4a0a2a43e3c7ecd34ec0944159c308&autoplay=true&continueMode=true&startTime=1608766207000)
 
+- [AWS - Amazon Web Services](https://generalassembly.zoom.us/rec/share/sitvd7N3FUhQ8gSKOgby15tLsvbMgF3TpgbvBkX0qxiiF0xx3zpYaEKmMAb4jCxA.7ZHyEDuYT4uKjEJ0?startTime=1609275482000)
+
 #### Alex Merced Bonus Lessons
 
 - [WebComponents](https://generalassembly.zoom.us/rec/share/Oi7uyET69MaLn04ExCVMQI8vFn6Uv57Mmij_yLdhpMZH7GCd9eSq8L51CGJ4Aihn.sg-UimYRO0AFCq6R) - Passcode: jM5UmVz=
