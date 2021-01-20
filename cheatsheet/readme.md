@@ -33,7 +33,7 @@
 
 - [Bootstrap](https://generalassembly.zoom.us/rec/share/X0O7p1sFyZzRs-Y9OanTgehiwYn1o8f-9hRNASXeosAoGcUv1vvSMq4Q2TCux75Y.HD5wjyK61FOQaRUU)
 
-#### Ira Bonus Lessons
+#### Ira Herman Bonus Lessons
 
 - [CS - Algorithms and Data Structures](https://generalassembly.zoom.us/rec/play/D3hsHHtv2--SfvDfmiQ2wUmu1a5e2eK0rU30X5Vq0FNoV57Qkm5pss6fQmkObpJf6ln0CXpQIJ_zvADQ.ofsX608ZqCBz7ktK?_x_zm_rhtaid=27&_x_zm_rtaid=-eIeYdrJSxG-ZNwSQ6Wlpg.1608775917040.8d4a0a2a43e3c7ecd34ec0944159c308&autoplay=true&continueMode=true&startTime=1608766207000)
 
