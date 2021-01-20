@@ -63,6 +63,8 @@
 
 - [BEM CSS Naming Conventions](https://generalassembly.zoom.us/rec/share/E5rcHmqX7SsWWKPQu8mad3W_CIhyix8xlBCQtvZzOXoKcIyX6ErlpUm0tV0Txbc.n0p3WR3y4tnyeb8X) Passcode: 46K*?J9*
 
+- [Intro to PHP](https://generalassembly.zoom.us/rec/share/aRwHlVKWgS6v_nXQKDcRTvRu39EfmTbOR_cb2OYBgDH-P1ildPfWzsEkBlF0gKz2.RadDKdVrpclZ-eg8) Passcode: 7p51nw#T
+
 - [Bonus HTML/CSS Playlist](https://www.youtube.com/playlist?list=PLV0X85yx42J1Btf00aBjbth_vgxM21Vfv)
 
 - [Bonus Javascript Playlist](https://www.youtube.com/playlist?list=PLV0X85yx42J2IZ0NPW7vbY3OHITUFCFTD)
