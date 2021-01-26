@@ -27,7 +27,7 @@ Schema are used by an ODM (Object Document Mapper) to make validate data going i
 
 - [Mac](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
 - [Linux](https://linuxhint.com/install_mongodb_ubuntu_20_04/)
-- [Windows] (https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
+- [Windows](https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
 
 ### Videos
 
