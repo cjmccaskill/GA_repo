@@ -20,7 +20,7 @@ Below you'll find videos and reference materials on all the main tools you'll be
 
 [![Orientation Video](http://img.youtube.com/vi/1waFGXeNafY/0.jpg)](http://www.youtube.com/watch?v=1waFGXeNafY "Orientation Video")
 
-**BEGINNERS REFERENCE POST**: https://tuts.alexmercedcoder.com/basicref/
+**BEGINNERS REFERENCE POST**: https://tuts.alexmercedcoder.com/2020/basicref/
 
 ## Bash (Terminal)
 
