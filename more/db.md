@@ -33,6 +33,15 @@ Schema are used by an ODM (Object Document Mapper) to make validate data going i
 
 - [Playlist](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaSCVF-Imd1hkQJvl8iLrV3)
 
+### Troubleshooting
+
+If starting the mongo server with the ```mongod``` command fails here are some solution
+
+- code 100 means it doesn't have a folder to store data, go to your home folder ```cd home``` then create a folder ```mkdir mongodata``` then use the following flag to point mongod to that folder ```mongod --dbpath ~/mongodata```
+
+- code 48 means the port is in use, first trying to clear the port with ```sudo kill -9 $(sudo lsof -t -i:27017)``` and if that doesn't work run mongod on a different port ```mongod --port 27018```
+
+
 ## Postgres
 
 Postgres is one of the most popular types of SQL databases, only following MySQL because of its use in LAMP stack applications (Wordpress). SQL databases structure their data more like a spreadsheet in columns and rows.
