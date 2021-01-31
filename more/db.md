@@ -27,11 +27,20 @@ Schema are used by an ODM (Object Document Mapper) to make validate data going i
 
 - [Mac](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
 - [Linux](https://linuxhint.com/install_mongodb_ubuntu_20_04/)
-- [Windows] (https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
+- [Windows](https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
 
 ### Videos
 
 - [Playlist](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaSCVF-Imd1hkQJvl8iLrV3)
+
+### Troubleshooting
+
+If starting the mongo server with the ```mongod``` command fails here are some solution
+
+- code 100 means it doesn't have a folder to store data, go to your home folder ```cd ~``` then create a folder ```mkdir mongodata``` then use the following flag to point mongod to that folder ```mongod --dbpath ~/mongodata```
+
+- code 48 means the port is in use, first trying to clear the port with ```sudo kill -9 $(sudo lsof -t -i:27017)``` and if that doesn't work run mongod on a different port ```mongod --port 27018```
+
 
 ## Postgres
 
