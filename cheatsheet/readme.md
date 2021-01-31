@@ -35,11 +35,33 @@
 
 #### Ira Herman Bonus Lessons
 
-- [CS - Algorithms and Data Structures](https://generalassembly.zoom.us/rec/play/D3hsHHtv2--SfvDfmiQ2wUmu1a5e2eK0rU30X5Vq0FNoV57Qkm5pss6fQmkObpJf6ln0CXpQIJ_zvADQ.ofsX608ZqCBz7ktK?_x_zm_rhtaid=27&_x_zm_rtaid=-eIeYdrJSxG-ZNwSQ6Wlpg.1608775917040.8d4a0a2a43e3c7ecd34ec0944159c308&autoplay=true&continueMode=true&startTime=1608766207000)
+- [CS - Algorithms and Data Structures - Video](https://generalassembly.zoom.us/rec/play/Y-UJbDrTLZrWUhoRFfR2sS4-BAxBNA1DqM2FjnXeJPQF487tlDK7HEROViTgVCf9CuUNCfZCejYwhh-j.OCY-NQajlenXrfyE?startTime=1611345196000&_x_zm_rtaid=yYP96ZybTXy4ty_I-AjLWQ.1611610378614.8ff1a6c49bc8e490d67b5da642688f31&_x_zm_rhtaid=44)
+
+- [CS - Algorithms and Data Structures - Cheat sheet](https://gist.github.com/iscott/efe76bdd5f8004c290e768bd0dafc052)
 
 - [AWS - Amazon Web Services](https://generalassembly.zoom.us/rec/share/sitvd7N3FUhQ8gSKOgby15tLsvbMgF3TpgbvBkX0qxiiF0xx3zpYaEKmMAb4jCxA.7ZHyEDuYT4uKjEJ0?startTime=1609275482000)
 
 #### Alex Merced Bonus Lessons
+
+- [Typescript](https://generalassembly.zoom.us/rec/share/yw9cv0ZQzLRFWW0CMR85AVDXOjRVqwWLYzBYafIhVCT0v2OOJvkL3Yr7OstJUd04._uo2dihSzFnXRbXV)
+
+- [Typescript React](https://generalassembly.zoom.us/rec/share/sBJBFYDgZPvEXvygLqDglXYsgdsNloV32omVnjq9ABgSHsIRRN1LPxHgQy8tIDC-.GYZ6ENAVWvU5GR7t)
+
+- [Vue](https://generalassembly.zoom.us/rec/share/xcYfFbmhh4KhFJZaf9p1bPGvAab7JZM4EdAqpUAZusUrf62b0FfuqCWP7e2j7HLO.YMRGLwe69trQQsj7)
+
+- [Angular](https://generalassembly.zoom.us/rec/share/pseRs8GSZWjYj0PaGXCBjOafNH3fKlIfQr2IE6LxWAKVWc6HH7cOqJDdQ1-dnZ7v.nAcU7j0ajensF53y)
+
+- [GraphQL API](https://generalassembly.zoom.us/rec/share/r_S6HUMVYdLmTlViKyDjX7RHw7HVRsyolqTRxDOYbgwbsSiIq_SLrCla5OKVV_ps.a4xBuDdQbG9gwvAu)
+
+- [PHP](https://generalassembly.zoom.us/rec/share/i3SahMji7MkdHmgeGQUnvCZE0HTryLM4YW6c4bhVdxYjRVl5EfCqtGNB7cPUyuef.vjzyVFps3MvtCOV8)
+
+- [Python](https://generalassembly.zoom.us/rec/share/dc0NkA5NrDifesxov4Tv-1D453DUsGgM_R1T0UOi0GtZSo3FyUcQDqgXKsrP6ftj.cNJv020tFcSEZ2C5)
+
+- [Ruby](https://generalassembly.zoom.us/rec/share/FzpKh1AGSmQL6PYg183lwDCasyrMu8Wph_qCIPOH5mCA98WhhyM-xWqgpNJ_tdQY.7fXkx9h6WYiBQjZI)
+
+- [Grid](https://generalassembly.zoom.us/rec/share/6VOvdpBiOf6uJuU0LIzTNDRQ5PQPb4EeA7L6U0PEYeFDW3hH2xF6J496JAuakgNH.iHsdHqmjc58FEP1N)
+
+- [Flexbox](https://generalassembly.zoom.us/rec/share/kToGF_1iwh-hW-Kjvds_tZFzC4wp2H7bhQO1o6EZxD3hYpCQXozeuwV0mCxkEnlk.F4lGdBM2_w3ameBT)
 
 - [WebComponents](https://generalassembly.zoom.us/rec/share/Oi7uyET69MaLn04ExCVMQI8vFn6Uv57Mmij_yLdhpMZH7GCd9eSq8L51CGJ4Aihn.sg-UimYRO0AFCq6R) - Passcode: jM5UmVz=
 
