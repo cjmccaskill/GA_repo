@@ -43,6 +43,14 @@
 
 #### Alex Merced Bonus Lessons
 
+- [HTML/CSS Basics Refresher](https://generalassembly.zoom.us/rec/share/ht-wmHyCTgnV-hrvtEzgCsywHKyPYQ1OH0S6DfNh-V1XB1vPsBh_Q1HTgtr0i1lI.LGQPTyMA_pcn3mbV?startTime=1612187836000)
+
+- [CSS Refresher](https://generalassembly.zoom.us/rec/share/WLmJnoSE86J4EPHeQJWNywhCW0pYDBVbZvBzuz00ztHV8MWZ4uKbLCTrmeSjmypq.rV9Csheq6GkdgAWa)
+
+- [Grid](https://generalassembly.zoom.us/rec/share/6VOvdpBiOf6uJuU0LIzTNDRQ5PQPb4EeA7L6U0PEYeFDW3hH2xF6J496JAuakgNH.iHsdHqmjc58FEP1N)
+
+- [Flexbox](https://generalassembly.zoom.us/rec/share/kToGF_1iwh-hW-Kjvds_tZFzC4wp2H7bhQO1o6EZxD3hYpCQXozeuwV0mCxkEnlk.F4lGdBM2_w3ameBT)
+
 - [Typescript](https://generalassembly.zoom.us/rec/share/yw9cv0ZQzLRFWW0CMR85AVDXOjRVqwWLYzBYafIhVCT0v2OOJvkL3Yr7OstJUd04._uo2dihSzFnXRbXV)
 
 - [Typescript React](https://generalassembly.zoom.us/rec/share/sBJBFYDgZPvEXvygLqDglXYsgdsNloV32omVnjq9ABgSHsIRRN1LPxHgQy8tIDC-.GYZ6ENAVWvU5GR7t)
@@ -58,10 +66,6 @@
 - [Python](https://generalassembly.zoom.us/rec/share/dc0NkA5NrDifesxov4Tv-1D453DUsGgM_R1T0UOi0GtZSo3FyUcQDqgXKsrP6ftj.cNJv020tFcSEZ2C5)
 
 - [Ruby](https://generalassembly.zoom.us/rec/share/FzpKh1AGSmQL6PYg183lwDCasyrMu8Wph_qCIPOH5mCA98WhhyM-xWqgpNJ_tdQY.7fXkx9h6WYiBQjZI)
-
-- [Grid](https://generalassembly.zoom.us/rec/share/6VOvdpBiOf6uJuU0LIzTNDRQ5PQPb4EeA7L6U0PEYeFDW3hH2xF6J496JAuakgNH.iHsdHqmjc58FEP1N)
-
-- [Flexbox](https://generalassembly.zoom.us/rec/share/kToGF_1iwh-hW-Kjvds_tZFzC4wp2H7bhQO1o6EZxD3hYpCQXozeuwV0mCxkEnlk.F4lGdBM2_w3ameBT)
 
 - [WebComponents](https://generalassembly.zoom.us/rec/share/Oi7uyET69MaLn04ExCVMQI8vFn6Uv57Mmij_yLdhpMZH7GCd9eSq8L51CGJ4Aihn.sg-UimYRO0AFCq6R) - Passcode: jM5UmVz=
 
