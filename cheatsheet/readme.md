@@ -51,6 +51,8 @@
 
 - [Flexbox](https://generalassembly.zoom.us/rec/share/kToGF_1iwh-hW-Kjvds_tZFzC4wp2H7bhQO1o6EZxD3hYpCQXozeuwV0mCxkEnlk.F4lGdBM2_w3ameBT)
 
+- [Plain Vanilla DOM Manipulation](https://generalassembly.zoom.us/rec/share/HW01thxD4W-Od1RLYOBUpCC8gTdPvEKrnUIV2_UGv65r14QAkWYzCgK_kcWrw6bK.6bXNLt6x7qBdUU3C)
+
 - [Typescript](https://generalassembly.zoom.us/rec/share/yw9cv0ZQzLRFWW0CMR85AVDXOjRVqwWLYzBYafIhVCT0v2OOJvkL3Yr7OstJUd04._uo2dihSzFnXRbXV)
 
 - [Typescript React](https://generalassembly.zoom.us/rec/share/sBJBFYDgZPvEXvygLqDglXYsgdsNloV32omVnjq9ABgSHsIRRN1LPxHgQy8tIDC-.GYZ6ENAVWvU5GR7t)
