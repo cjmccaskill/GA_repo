@@ -95,6 +95,8 @@
 
 - [Intro to KOA Web Framework](https://generalassembly.zoom.us/rec/share/Mbt_SftdkcMfsC_5EQzpRqQDnWhugbR-8XMP5Qp-_DJo7JMAmL8nlkZCVGrzcrm5.53lzDbw16FaNCdV1) Passcode: FRO^5fW^
 
+- [Creating a Mern Stack Boilerplate](https://generalassembly.zoom.us/rec/share/drdXY__dwgwoBrPfqWbY4OvB8AkXXgYeynd_yt_M8fSaz05l-TbpXPwhux48V1a0.HjNbseUsxlDuZTjS)
+
 - [Bonus HTML/CSS Playlist](https://www.youtube.com/playlist?list=PLV0X85yx42J1Btf00aBjbth_vgxM21Vfv)
 
 - [Bonus Javascript Playlist](https://www.youtube.com/playlist?list=PLV0X85yx42J2IZ0NPW7vbY3OHITUFCFTD)
@@ -122,3 +124,5 @@
 - [Fireside Chat with Alyssa Jackson](https://generalassembly.zoom.us/rec/play/dV9CWb_08z7Oi_LtZsah-LtpHGtDHxwUxFgXNo7aBgqiZoxwEYJRUIzOpJZ6e6tukpJBefjFe-oHJLI._9fBQDIHmWzgRQVo?autoplay=true&startTime=1603995887000)
 
 - [Fireside Chat with Janet Mendez](https://generalassembly.zoom.us/rec/play/DI2PEyp09c7rgKqN_9XJWGc0nt-iS9ekuZTpDDJhIJDnpG6T2qdI1HKQTauZjpEOuZzcHsdkBM7Bvvnn.c9vdj6pGwkwtc6vC?autoplay=true&startTime=1602091736000)
+
+- [Fireside Chat with Eloise Barrow](https://generalassembly.zoom.us/rec/play/CmYWgQRQZbVzml93SSLn14SDlXeC9QFE2IyRbsAlSqwzHymabgcweDKyIQVtPRY-qLv4aN-ptSulFN42.S_aKmfmhEs8XVH8p?autoplay=true&startTime=1611171268000)
