@@ -89,6 +89,8 @@
 
 - [Python](https://generalassembly.zoom.us/rec/share/5LQ0isfe2C4T4chJw2-zu0zGoqjUpI8SRBLWSGBwy2eA5za3gIX9JyW8OzfQVy5S.riET9S79ZO0nst-I) Passcode: #DC36L$Z
 
+- [Easier React Forms with Formik](https://generalassembly.zoom.us/rec/share/rUWx4_UNdxD9SFw5vM93PaxfVq8rWkT1RJOloTc7SFNrBWssd-Myq_yKTVG-mm0y.2P7RyCoheOaXlRAF)
+
 - [BEM CSS Naming Conventions](https://generalassembly.zoom.us/rec/share/E5rcHmqX7SsWWKPQu8mad3W_CIhyix8xlBCQtvZzOXoKcIyX6ErlpUm0tV0Txbc.n0p3WR3y4tnyeb8X) Passcode: 46K*?J9*
 
 - [Intro to PHP](https://generalassembly.zoom.us/rec/share/aRwHlVKWgS6v_nXQKDcRTvRu39EfmTbOR_cb2OYBgDH-P1ildPfWzsEkBlF0gKz2.RadDKdVrpclZ-eg8) Passcode: 7p51nw#T
@@ -96,6 +98,8 @@
 - [Intro to KOA Web Framework](https://generalassembly.zoom.us/rec/share/Mbt_SftdkcMfsC_5EQzpRqQDnWhugbR-8XMP5Qp-_DJo7JMAmL8nlkZCVGrzcrm5.53lzDbw16FaNCdV1) Passcode: FRO^5fW^
 
 - [Creating a Mern Stack Boilerplate](https://generalassembly.zoom.us/rec/share/drdXY__dwgwoBrPfqWbY4OvB8AkXXgYeynd_yt_M8fSaz05l-TbpXPwhux48V1a0.HjNbseUsxlDuZTjS)
+
+- [Express Static Folders and EJS](https://generalassembly.zoom.us/rec/share/DyDXHjSjHNKRCFjj6GjG3G70etFBsw1gtwlgAukUnibW1o-pgX7WJBQThpbZvSgf.miXfxyrxStQDTn8X)
 
 - [Bonus HTML/CSS Playlist](https://www.youtube.com/playlist?list=PLV0X85yx42J1Btf00aBjbth_vgxM21Vfv)
 
