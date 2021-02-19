@@ -69,6 +69,8 @@
 
 - [Ruby](https://generalassembly.zoom.us/rec/share/FzpKh1AGSmQL6PYg183lwDCasyrMu8Wph_qCIPOH5mCA98WhhyM-xWqgpNJ_tdQY.7fXkx9h6WYiBQjZI)
 
+- [Intro to Ruby on Rails](https://generalassembly.zoom.us/rec/share/S2a7ZT13XUrGzYQB0hXeKSZ_-JGC4QFbNlTo_D-rfkv3KYAOuk_hr8NKdkzkSJch.U9nEwu60LK8NQ0_C)
+
 - [WebComponents](https://generalassembly.zoom.us/rec/share/Oi7uyET69MaLn04ExCVMQI8vFn6Uv57Mmij_yLdhpMZH7GCd9eSq8L51CGJ4Aihn.sg-UimYRO0AFCq6R) - Passcode: jM5UmVz=
 
 - [Typescript](https://generalassembly.zoom.us/rec/share/LYX6_hJ8aMMVqJfcaapvrrtjE6pL1FdyABTLIdCsN7TRXMiXB6e6I8ZqiKq9PQHc.H2licGYKVJ4Gi3yj) - Passcode: Vu$F46?V
