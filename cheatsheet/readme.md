@@ -91,6 +91,8 @@
 
 - [Python](https://generalassembly.zoom.us/rec/share/5LQ0isfe2C4T4chJw2-zu0zGoqjUpI8SRBLWSGBwy2eA5za3gIX9JyW8OzfQVy5S.riET9S79ZO0nst-I) Passcode: #DC36L$Z
 
+- [Python Django Intro](https://generalassembly.zoom.us/rec/share/KPmsy3VZKVnZdbdWDnxheeZAWkrvDrqAAZfzUCrln9gErF2s0azhGJfgha_c_sxT.aIcxNHrd2N1FOUVK)
+
 - [Easier React Forms with Formik](https://generalassembly.zoom.us/rec/share/rUWx4_UNdxD9SFw5vM93PaxfVq8rWkT1RJOloTc7SFNrBWssd-Myq_yKTVG-mm0y.2P7RyCoheOaXlRAF)
 
 - [BEM CSS Naming Conventions](https://generalassembly.zoom.us/rec/share/E5rcHmqX7SsWWKPQu8mad3W_CIhyix8xlBCQtvZzOXoKcIyX6ErlpUm0tV0Txbc.n0p3WR3y4tnyeb8X) Passcode: 46K*?J9*
