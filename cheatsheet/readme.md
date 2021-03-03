@@ -99,6 +99,11 @@
 
 - [Intro to PHP](https://generalassembly.zoom.us/rec/share/aRwHlVKWgS6v_nXQKDcRTvRu39EfmTbOR_cb2OYBgDH-P1ildPfWzsEkBlF0gKz2.RadDKdVrpclZ-eg8) Passcode: 7p51nw#T
 
+- [Intro to PHP/Laravel](https://generalassembly.zoom.us/rec/share/ZUBqssGVWxia4HDWuo8T6iVwggA8jPBQAgbiDLVnO4fIbx3jxEiIRfz8zIe5ninT.Z0g0e8A9tNAOFc-9)
+
+- [Intro to Ruby on Rails](https://generalassembly.zoom.us/rec/share/N-fjS9NowgHYvcoGPV42xe8LlBDFgiJ7Uxo3M1b4HRwCEEKg5pEsvDgBNam-P6DE.pTNXoDTL7CHAzwwn
+)
+
 - [Intro to KOA Web Framework](https://generalassembly.zoom.us/rec/share/Mbt_SftdkcMfsC_5EQzpRqQDnWhugbR-8XMP5Qp-_DJo7JMAmL8nlkZCVGrzcrm5.53lzDbw16FaNCdV1) Passcode: FRO^5fW^
 
 - [Creating a Mern Stack Boilerplate](https://generalassembly.zoom.us/rec/share/drdXY__dwgwoBrPfqWbY4OvB8AkXXgYeynd_yt_M8fSaz05l-TbpXPwhux48V1a0.HjNbseUsxlDuZTjS)
