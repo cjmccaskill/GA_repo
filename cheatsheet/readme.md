@@ -27,6 +27,10 @@
 
 - [React useReducer](https://generalassembly.zoom.us/rec/share/MqePeNERLMFdmqOJLt24fIVWKZe-noM07NkUJk2Vk9qypJiB6jgQI2q5EbFwfzTl.qv4VkyUSE_KOg0oh?startTime=1606255774000)
 
+- [Algos: Sorting](https://generalassembly.zoom.us/rec/share/YEFPaAG4_zKvTJtHmFwZ7Bg6CVVoNMcwPyy07thiYuOeETcPX8g6UVGvQkw1QY-E.VMjBFKT7ASwXt0UG?startTime=1618322173000)
+
+- [CSS Hover Effects](https://generalassembly.zoom.us/rec/share/0_1Ke_STbG_lu0s6fKih-JDdesYglcosg6XJSl9P4LnYtE-uxF-4gyox9ULGou-G.9rck2u_p5Qetd_2R?startTime=1618338102000)
+
 #### Kenny Cruz Bonus Lessons
 
 - [Gatsby](https://generalassembly.zoom.us/rec/share/jD6cblNgDnW-o1icGYLbc7bphh_v84GiMFRlYb4y85ATJs4GE9G3jwK0u73U0hMk.x2q0ACUBr2CCWx15?startTime=1601906545000)
@@ -141,3 +145,5 @@
 - [Fireside Chat with Janet Mendez](https://generalassembly.zoom.us/rec/play/DI2PEyp09c7rgKqN_9XJWGc0nt-iS9ekuZTpDDJhIJDnpG6T2qdI1HKQTauZjpEOuZzcHsdkBM7Bvvnn.c9vdj6pGwkwtc6vC?autoplay=true&startTime=1602091736000)
 
 - [Fireside Chat with Eloise Barrow](https://generalassembly.zoom.us/rec/play/CmYWgQRQZbVzml93SSLn14SDlXeC9QFE2IyRbsAlSqwzHymabgcweDKyIQVtPRY-qLv4aN-ptSulFN42.S_aKmfmhEs8XVH8p?autoplay=true&startTime=1611171268000)
+
+- [Fireside Chat with Hannah Brennan](https://generalassembly.zoom.us/rec/play/EG--92ZM0R4ZNs25gGI3aEYc0lwg-2Zu2zdjpvu58Hmp0GDG2iJAL624KGHuQ4cDhPy_3N40wH4hEewH.nw3dMCKregSmQ3QV?autoplay=true&startTime=1618424800000)
