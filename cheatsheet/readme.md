@@ -97,6 +97,8 @@
 
 - [BEM CSS Naming Conventions](https://generalassembly.zoom.us/rec/share/E5rcHmqX7SsWWKPQu8mad3W_CIhyix8xlBCQtvZzOXoKcIyX6ErlpUm0tV0Txbc.n0p3WR3y4tnyeb8X) Passcode: 46K*?J9*
 
+- [AnimateCSS](https://generalassembly.zoom.us/rec/share/LaQdRtRZOA2D6B-z_kClMXqhibQoXUT8ybeDSlgcela7M9rr-9AbQ9XxFh12Eu_M.h0VYiRkDfO0cuk5Y)
+
 - [Intro to PHP](https://generalassembly.zoom.us/rec/share/aRwHlVKWgS6v_nXQKDcRTvRu39EfmTbOR_cb2OYBgDH-P1ildPfWzsEkBlF0gKz2.RadDKdVrpclZ-eg8) Passcode: 7p51nw#T
 
 - [Intro to PHP/Laravel](https://generalassembly.zoom.us/rec/share/ZUBqssGVWxia4HDWuo8T6iVwggA8jPBQAgbiDLVnO4fIbx3jxEiIRfz8zIe5ninT.Z0g0e8A9tNAOFc-9)
