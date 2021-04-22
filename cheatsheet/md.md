@@ -1,5 +1,7 @@
 # Markdown cheatsheet!
 
+- [Intro to Markdown](https://www.youtube.com/watch?v=lbpRomejEd0&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=10&t=13s)
+
 ### Headers:
 
 Preface the words you want to be made into headers by 1 - 6 `#` symbols.

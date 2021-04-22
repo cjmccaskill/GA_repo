@@ -1,5 +1,26 @@
 # Javascript Reference
 
+
+## Videos
+
+- [Javascript in 60 Minutes](https://www.youtube.com/watch?v=yN9-eBh3dSw&list=PLY6oTPmKnKbZDZ9cRrRby4Wnr4GIJj5O3&index=1&t=355s)
+- [Javascript in 30 Minutes - Part 1](https://www.youtube.com/watch?v=VEnrgqenumY&t=1s)
+- [Javascript in 30 Minutes - Part 2](https://www.youtube.com/watch?v=ZO10BXnUufk)
+- [Scope Masterclass: var, let, const](https://www.youtube.com/watch?v=trez5PLZm7I)
+- [Loops Masterclass](https://www.youtube.com/watch?v=Yf6whlVj5qA)
+- [Strings Masterclass](https://www.youtube.com/watch?v=EJy7f0YPgi8)
+- [Array Methods](https://www.youtube.com/watch?v=CIWHuP8n_KA&t=4s)
+- [Array Masterclass](https://www.youtube.com/watch?v=0rd-WuGtLgI)
+- [Destructuring Masterclass](https://www.youtube.com/watch?v=T03vCdNz6h4&t=2s)
+- [Everything on Functions](https://www.youtube.com/watch?v=fhLFpVeGdoU)
+- [Iterating Masterclass](https://www.youtube.com/watch?v=JFf6ogtBUdo)
+- [Objects Masterclass](https://www.youtube.com/watch?v=6Ytou94vP9g)
+- [Prototypes Masterclass](https://www.youtube.com/watch?v=O_lyavc0lJc)
+- [Web Components Masterclass](https://www.youtube.com/watch?v=qV7jh7ctALg)
+- [Web Component Styling Masterclass](https://www.youtube.com/watch?v=9flT7pFyaXM)
+- [OOP Masterclass](https://www.youtube.com/watch?v=IxbDwmNwnFQ)
+- [Classes Masterclass](https://www.youtube.com/watch?v=O93r_ZB1NfQ)
+
 ## Types
 
 To check the type of any variable use the typeof operator

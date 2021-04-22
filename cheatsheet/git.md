@@ -1,5 +1,12 @@
 # Git Basics 
 
+**MAIN RESOURCES**
+
+- [Article Explaining What is Git](https://tuts.alexmercedcoder.com/2021/1/guidetogit/)
+- [Video Intro to Git](https://www.youtube.com/watch?v=L4zbgo7KFoA&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=7&t=9s)
+- [Video working with git Remotes](https://www.youtube.com/watch?v=TOsVVxXdtu8&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=9&t=2s)
+- [Setting up SSH on Git](https://www.youtube.com/watch?v=6u84sACs0v0&list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg&index=8)
+
 Early on you will using git to get code (pull) from a remote repository (on github), writing your own code, tracking it with git, and moving (push) the code from your computer (local version) to github.
 
 When using git locally (on your computer), you have been running the commands in Terminal (Command line).

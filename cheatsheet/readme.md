@@ -1,5 +1,6 @@
 # Cheatsheets
 
+- [HTML & CSS Basics](./htmlcssbasics.md)
 - [Markdown Cheatsheet](./md.md)
 - [CSS Cheatsheet](./css.md)
 - [JS Cheatsheet](./js.md)

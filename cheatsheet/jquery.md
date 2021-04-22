@@ -1,6 +1,13 @@
 # jQuery Cheatsheet
 A Cheatsheet of common jQuery methods, continue exploring all the methods and all their details at https://jquery.com/
 
+- [VIDEO jQuery Intro](https://www.youtube.com/watch?v=HnjWjOLSDQE&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=33)
+- [VIDEO Looping the DOM](https://www.youtube.com/watch?v=iaR1GeRIv7w&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=37)
+- [VIDEO Events and Event Handlers](https://www.youtube.com/watch?v=mOO1xcO5Yu8&list=PLY6oTPmKnKbbeAFC_F_f6jBKU4Xfu24sX&index=39)
+
+
+A Cheatsheet of common jQuery methods, continue exploring all the methods and all their details at https://jquery.com/
+
 Notes: 
 - `$div`, `$img` , `$input`, `$h1` - are variable names for jQuery elements - a div, an image and an input, h1 respectively it is expected that these elements were queried and saved to these variable names and unless stated otherwise, there is only one of them
 - `$li` is another example - but in this case it is expected there are multiple `li`s on the page
