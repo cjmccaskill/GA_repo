@@ -7,7 +7,8 @@
 - [Git Cheatsheet](./git.md)
 - [jQuery Cheatsheet](./jquery.md)
 - [Forms Cheatsheet](./forms.md)
-- [Terminal Cheatsheet](./terminal.md)
+- [Terminal Cheatsheet (Bash & Powershell)](./terminal.md)
+- [Command Line (Bash, Git, Node, Ruby, Python, PHP)](./commands.md)
 - [Mongo Cheatsheet](./mongo.md)
 
 ## Bonus Lessons
