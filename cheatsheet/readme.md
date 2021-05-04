@@ -92,6 +92,9 @@
 
 - [StencilJS](https://generalassembly.zoom.us/rec/share/7mmvql7UaNsU17ngohilhT7VMRoMcjid6S_gB5hJ2Xg-Ql-0wndZSRt1mYHQ.csNgVmeU3ov79G18) - Passcode: aJiI1X^b
 
+- [SolidJS](https://generalassembly.zoom.us/rec/share/aTxAXOyTg3F9uVnilxqQrwEXLVxUCvs_IilLzkZXXXovHNyCRcQ51EfPG1-QXirC.ifuvmD6qTEFwpZvk
+)
+
 - [GraphQL](https://generalassembly.zoom.us/rec/share/Dce4vUf5_3GYq-TysQapQbv0n_Dwy0VuOdhzO04_Hw3F7BiZBV3WcgpKlpm8uAtC.okgyNArVhbTWKapw) Passcode: n2Z\*xq^a
 
 - [Headless CMSs](https://generalassembly.zoom.us/rec/share/u-h25U66niMOHRUEVNSsYR1te_CJWyGVHnsSCIGyWi3M_VqxD6Y8A5Jb71DIfaEd.2sh7T2ScqNpobTPc) Passcode: kY4gKsy
