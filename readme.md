@@ -1,4 +1,6 @@
 # Pre-Cohort Orientation Markdown
+| [Pre-Cohort Prep](https://lab.github.com/AlexMercedCoder/before-coding-bootcamp-prep-course/) | [Tips & Tricks](./tips.md) | [Cheatsheets/Bonus Lessons](/cheatsheet/readme.md) | [Student Handbook](./handbook.md)
+
 
 ### by Alex Merced (AlexMercedCoder.com)
 
@@ -13,6 +15,10 @@ Welcome!!! If you are reading this you are about to embark on a Software Enginee
 This guide below will tell you what you need to setup before the first day of class.
 
 - [QuickStart Setup Guide](/more/quickstart.md)
+- [Pre-Bootcamp Prep Course to help you learn the Basics Ideas and Tools before Immersion](https://lab.github.com/AlexMercedCoder/before-coding-bootcamp-prep-course/)
+- [Tips & Tricks: Read to set expectations for your journey!](./tips.md)
+- [Class Norms](./norms.md)
+- [Student Handbook](./handbook.md)
 
 Below you'll find videos and reference materials on all the main tools you'll be using throughout the course.
 
