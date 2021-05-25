@@ -50,6 +50,8 @@
 
 #### Alex Merced Bonus Lessons
 
+- [Bash & Terminal Scripting](https://generalassembly.zoom.us/rec/share/f5quC-zb2i11E19PFKR8cSVG0BB19DIxpMlAClZY78-KI7mUcdd9-NvgPU6_td91.pXQmVQaLM3WD0kxu)
+
 - [HTML/CSS Basics Refresher](https://generalassembly.zoom.us/rec/share/ht-wmHyCTgnV-hrvtEzgCsywHKyPYQ1OH0S6DfNh-V1XB1vPsBh_Q1HTgtr0i1lI.LGQPTyMA_pcn3mbV?startTime=1612187836000)
 
 - [CSS Refresher](https://generalassembly.zoom.us/rec/share/WLmJnoSE86J4EPHeQJWNywhCW0pYDBVbZvBzuz00ztHV8MWZ4uKbLCTrmeSjmypq.rV9Csheq6GkdgAWa)
