@@ -99,6 +99,8 @@
 
 - [GraphQL](https://generalassembly.zoom.us/rec/share/Dce4vUf5_3GYq-TysQapQbv0n_Dwy0VuOdhzO04_Hw3F7BiZBV3WcgpKlpm8uAtC.okgyNArVhbTWKapw) Passcode: n2Z\*xq^a
 
+- [Fastify & Liquid](https://generalassembly.zoom.us/rec/share/K1MvUBpRkgi7Y8dJOL6KAot2nOZtL_km1fuBH6iGah34KtCnLBSD6q4UDTR9fDD3.xaMDT7dbN0RotfFc)
+
 - [Gatsby Portfolio Template](https://generalassembly.zoom.us/rec/share/G_H-9UD0lbW3LmxAIMW8e2UF6t8ClF1SrfXi0tjeVaF91F43jMyMn2UW-CLsaUqC.XaZNke8VRv874L6z)
 
 - [Headless CMSs](https://generalassembly.zoom.us/rec/share/u-h25U66niMOHRUEVNSsYR1te_CJWyGVHnsSCIGyWi3M_VqxD6Y8A5Jb71DIfaEd.2sh7T2ScqNpobTPc) Passcode: kY4gKsy
