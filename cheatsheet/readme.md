@@ -9,6 +9,7 @@
 - [Forms Cheatsheet](./forms.md)
 - [React Cheatsheet](./react.md)
 - [Terminal Cheatsheet (Bash & Powershell)](./terminal.md)
+- [Ruby/Postgress Install Guide](./rubyinstall.md)
 - [Command Line (Bash, Git, Node, Ruby, Python, PHP)](./commands.md)
 - [Mongo Cheatsheet](./mongo.md)
 
