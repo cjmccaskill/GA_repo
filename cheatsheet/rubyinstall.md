@@ -156,7 +156,7 @@ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
 `$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile`
 	* (replace `.bash_profile` with `.zshrc` if you're using zsh)
 	
-Close and repoen the terminal and confirm ruby version _now in use by the system_ is `2.7.1` or something similar
+Close and repoen the terminal and confirm ruby version _now in use by the system_ is `3.0.1` or something similar
 ```sh
 ruby -v
 ```
