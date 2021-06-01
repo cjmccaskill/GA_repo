@@ -1,7 +1,7 @@
 The Instructions below are for installing on Mac, if installing on Linux or Windows use the following:
 - [Install Ruby/Postgres on Windows](https://gorails.com/setup/windows/10)
 - [Install Ruby/Postgres on Ubuntu](https://gorails.com/setup/ubuntu/20.04)
-- [Install Ruby/Postgres on M1 Mac](https://kemalmutlu.medium.com/installing-ruby-on-rails-macbook-pro-m1-4272da855fb3)
+- [Install Ruby/Postgres on M1 Mac](https://kemalmutlu.medium.com/installing-ruby-on-rails-macbook-pro-m1-4272da855fb3) | [In Case You need to Reinstall Homebrew if Rbenv doesn't install](https://5balloons.info/correct-way-to-install-and-use-homebrew-on-m1-macs/)
 
 # Ruby - Environment
 
