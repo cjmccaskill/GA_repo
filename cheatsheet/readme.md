@@ -126,6 +126,8 @@
 - [Intro to Ruby on Rails](https://generalassembly.zoom.us/rec/share/N-fjS9NowgHYvcoGPV42xe8LlBDFgiJ7Uxo3M1b4HRwCEEKg5pEsvDgBNam-P6DE.pTNXoDTL7CHAzwwn
 )
 
+- [Intro to Sinatra & Ruby on Rails](https://generalassembly.zoom.us/rec/share/uAiRMlEuhRo52dwHOavZL6qiGtCb6nY-T-cwD62sdfDFtSdfI35KDAI4s_O-lF2M.ADLZ3GFwExByghgW)
+
 - [Intro to KOA Web Framework](https://generalassembly.zoom.us/rec/share/Mbt_SftdkcMfsC_5EQzpRqQDnWhugbR-8XMP5Qp-_DJo7JMAmL8nlkZCVGrzcrm5.53lzDbw16FaNCdV1) Passcode: FRO^5fW^
 
 - [Creating a Mern Stack Boilerplate](https://generalassembly.zoom.us/rec/share/drdXY__dwgwoBrPfqWbY4OvB8AkXXgYeynd_yt_M8fSaz05l-TbpXPwhux48V1a0.HjNbseUsxlDuZTjS)
