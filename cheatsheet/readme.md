@@ -35,6 +35,10 @@
 
 - [CSS Hover Effects](https://generalassembly.zoom.us/rec/share/0_1Ke_STbG_lu0s6fKih-JDdesYglcosg6XJSl9P4LnYtE-uxF-4gyox9ULGou-G.9rck2u_p5Qetd_2R?startTime=1618338102000)
 
+- [AWS w/ Node Part 1](https://generalassembly.zoom.us/rec/share/4n6DjhOzJIi-YL5yWS5ZmjDfVt7XqUwISwZwRftQeGwD0-T8wlgq9ALeM7AMbPuV.kbZK0txq3UmCFDiU?startTime=1622814651000)
+
+- [AWS w/ Node Part 2](https://generalassembly.zoom.us/rec/share/4n6DjhOzJIi-YL5yWS5ZmjDfVt7XqUwISwZwRftQeGwD0-T8wlgq9ALeM7AMbPuV.kbZK0txq3UmCFDiU?startTime=1622833443000)
+
 #### Kenny Cruz Bonus Lessons
 
 - [Gatsby](https://generalassembly.zoom.us/rec/share/jD6cblNgDnW-o1icGYLbc7bphh_v84GiMFRlYb4y85ATJs4GE9G3jwK0u73U0hMk.x2q0ACUBr2CCWx15?startTime=1601906545000)
