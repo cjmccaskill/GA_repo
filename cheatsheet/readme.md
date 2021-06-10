@@ -39,6 +39,12 @@
 
 - [AWS w/ Node Part 2](https://generalassembly.zoom.us/rec/share/4n6DjhOzJIi-YL5yWS5ZmjDfVt7XqUwISwZwRftQeGwD0-T8wlgq9ALeM7AMbPuV.kbZK0txq3UmCFDiU?startTime=1622833443000)
 
+- [AWS w/ Node Part 3](https://generalassembly.zoom.us/rec/share/MZP5ZXyNR3bZnA4KDvAwuwYzof40AqDP3sDhy3__xspkCLGjRU6MmYIyOLJ0_G9M.HQfQnAx9HYZyFfCX?startTime=1623074157000)
+
+- [AWS w/ Node Part 4](https://generalassembly.zoom.us/rec/share/MZP5ZXyNR3bZnA4KDvAwuwYzof40AqDP3sDhy3__xspkCLGjRU6MmYIyOLJ0_G9M.HQfQnAx9HYZyFfCX?startTime=1623090943000)
+
+- [AWS w/ Node Part 5](https://generalassembly.zoom.us/rec/share/66NMeeYtqDLUJpmxifqp2vysaY-wxKlwTBSea6bT9s2NALgavsv4QcmxuAFJBHum.LiDvRllAFB6gXc-z?startTime=1623160201000)
+
 #### Kenny Cruz Bonus Lessons
 
 - [Gatsby](https://generalassembly.zoom.us/rec/share/jD6cblNgDnW-o1icGYLbc7bphh_v84GiMFRlYb4y85ATJs4GE9G3jwK0u73U0hMk.x2q0ACUBr2CCWx15?startTime=1601906545000)
@@ -133,6 +139,8 @@
 - [Intro to Sinatra & Ruby on Rails](https://generalassembly.zoom.us/rec/share/uAiRMlEuhRo52dwHOavZL6qiGtCb6nY-T-cwD62sdfDFtSdfI35KDAI4s_O-lF2M.ADLZ3GFwExByghgW)
 
 - [Sinatra with ORM, Rails API + React Frontend Part 1](https://generalassembly.zoom.us/rec/share/z3QgC7oOFvQMMiCjP6951ZCR5fdwKHCiFuufUdg5tQblDC-2-wwE8oyOvkjypNd6.LYecT5kWjIPtzZTe)
+
+- [Gatsby/NextJS and React Frontend Part 2](https://generalassembly.zoom.us/rec/share/gPzRIIa5b7QqKSHSeo5rJeSp5OV2LO9EEAUSZabRV0rJdJkd5oC5Vmw7f7V5nmWw._zeCOOqLBBsPjSEc)
 
 - [Intro to KOA Web Framework](https://generalassembly.zoom.us/rec/share/Mbt_SftdkcMfsC_5EQzpRqQDnWhugbR-8XMP5Qp-_DJo7JMAmL8nlkZCVGrzcrm5.53lzDbw16FaNCdV1) Passcode: FRO^5fW^
 
